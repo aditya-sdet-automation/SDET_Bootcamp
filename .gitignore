@@ -40,3 +40,4 @@ build/
 
 *.txt
 track_list.csv
+.idea
