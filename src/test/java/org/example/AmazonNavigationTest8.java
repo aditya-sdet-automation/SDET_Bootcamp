@@ -1,5 +1,5 @@
 /**
- *
+ *Finalised Amazon Bot: Implemented DataProvider,Aggregator Pattern and Cron readiness
  */
 
 package org.example;
